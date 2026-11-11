@@ -1,7 +1,7 @@
 # Dependencies
 node_modules/
 
-# Environment variables / secrets
+# Environment variables
 .env
 .env.*
 
@@ -10,18 +10,3 @@ node_modules/
 
 # Logs
 *.log
-logs/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-
-# Build output
-dist/
-build/
-
-# Testing
-coverage/
